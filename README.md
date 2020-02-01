@@ -1,2 +1,3 @@
 # CESSD
-We will upload data and code soon
+We will upload all data and code soon
+The test data:
